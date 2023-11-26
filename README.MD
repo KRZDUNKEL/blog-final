@@ -10,7 +10,7 @@ Asegúrate de tener instalado Python y pip en tu sistema. Luego, instala las dep
 pip install -r requirements.txt
 
 
-git clone https://github.com/tu-usuario/blog-django.git
+git clone https://github.com/KRZDUNKEL/blog-final.git
 cd blog-django
 
 
