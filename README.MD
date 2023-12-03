@@ -1,6 +1,6 @@
 # Blog en Django alumno: thomas paniagua
 
-Este es un simple blog desarrollado utilizando Django, un marco de desarrollo web en Python. Este proyecto permite a los usuarios crear, editar y eliminar publicaciones de blog, así como comentar en ellas.
+Este es un simple blog desarrollado utilizando Django, un marco de desarrollo web en Python y en otros lenguajes como js, html etc. Este proyecto permite a los usuarios crear, editar y eliminar publicaciones de blog, así como comentar en ellas.
 
 ## Requisitos
 
